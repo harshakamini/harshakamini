@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @harshakamini
 - 👀 I’m interested in robotics , more like creating new things 
 - 🌱 I’m currently learning frontend developing
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me , email: harshakamini@gmaail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- 💞️ I’m looking to collaborate on major projects 
+- 📫 How to reach me , email: harshakamini@gmail.com
+
+- ⚡ Hobbies : playing chess , browsing net 
 
 <!---
 harshakamini/harshakamini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
