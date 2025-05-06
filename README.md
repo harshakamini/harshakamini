@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics , more like creating new things 
 - 🌱 I’m currently learning frontend developing
 - 💞️ I’m looking to collaborate on major projects 
-- 📫 How to reach me , email: harshakamini@gmail.com
+- 📫 How to reach me , email: harshakamini2004@gmail.com
 
 - ⚡ Hobbies : playing chess , browsing net 
 
